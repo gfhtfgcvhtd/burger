@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.p-nav{
+    margin-left: 207px;
+    margin-top: 54px;
+    margin-bottom: 43;
+    margin-right: 36px;
+}
+.link-nav{
+    text-decoration: none;
+    color: #ffff;
+}
+.link-nav1{
+    text-decoration: none;
+    color: #ffffffb9;
+}
+.main-burger{
+width: 1266px;
+height: 980px;
+margin-bottom: -40px;
+}
